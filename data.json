@@ -1,0 +1,38 @@
+[		{
+			"productId": "001",
+			"productImage": "../images/product/bluetooth.jpg",
+			"productTitle": "Mi Bluetooth Headset",
+			"productPrice":"899"
+		},
+		{
+			"productId": "002",
+			"productImage": "../images/product/smartband.jpg",
+			"productTitle": "Mi Smart Band",
+			"productPrice":"1200"
+		},
+		{
+			"productId": "003",
+			"productImage": "../images/product/earphone.jpg",
+			"productTitle": "Mi Earphone",
+			"productPrice":"599"
+		},
+		{
+			"productId": "004",
+			"productImage": "../images/product/powerbank.jpg",
+			"productTitle": "Mi Power Bank",
+			"productPrice":"799"
+		},
+		{
+			"productId": "005",
+			"productImage": "../images/product/vr.jpg",
+			"productTitle": "Mi VR",
+			"productPrice":"399"
+		},
+		{
+			"productId": "006",
+			"productImage": "../images/product/usb.jpg",
+			"productTitle": "Mi USB",
+			"productPrice":"299"
+		}
+		
+]
